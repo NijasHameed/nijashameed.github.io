@@ -1198,7 +1198,7 @@ input[type="text"],
 }
 
 .timeline-second-style .left-part {
-    width: 42%;
+    width: 44%;
     display: table-cell;
     padding-right: 26px;
     min-height: 100%;
@@ -1222,7 +1222,7 @@ input[type="text"],
 .timeline-second-style .divider {
     position: absolute;
     top: 0;
-    left: 37%;
+    left: 38%;
     bottom: 0;
     width: 1px;
     background-color: #444;
